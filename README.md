@@ -10,9 +10,9 @@ More documentation will be added throughout this project's updates.
 
 ## Technologies
 
-*Socket.io
+* Socket.io
 
-*Signal's Encryption algorithm
+* Signal's Encryption algorithm
 
 ## Issues
 
